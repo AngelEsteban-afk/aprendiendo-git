@@ -1,3 +1,3 @@
-# Curso de _Git & \_Github_
+# Curso de _Git & Github_
 
-Hola soy angel Pimentel
+Hola soy Angel Pimentel.
